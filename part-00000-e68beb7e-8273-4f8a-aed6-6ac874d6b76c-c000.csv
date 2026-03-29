@@ -1,0 +1,11 @@
+id,name,location,email,country,state
+1,Amit,Mumbai,amit@example.com,INDIA,MAHARASHTRA
+2,Neha,Pune,neha@example.com,INDIA,MAHARASHTRA
+3,Rahul,Delhi,rahul@example.com,INDIA,MAHARASHTRA
+4,Sneha,Bangalore,sneha@example.com,INDIA,MAHARASHTRA
+5,Vikas,Hyderabad,vikas@example.com,INDIA,MAHARASHTRA
+6,Pooja,Chennai,pooja@example.com,INDIA,MAHARASHTRA
+7,Rohit,Kolkata,rohit@example.com,INDIA,MAHARASHTRA
+8,Anjali,Ahmedabad,anjali@example.com,INDIA,MAHARASHTRA
+9,Karan,Jaipur,karan@example.com,INDIA,MAHARASHTRA
+10,Meera,Nagpur,meera@example.com,INDIA,MAHARASHTRA
